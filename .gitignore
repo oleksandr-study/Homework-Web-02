@@ -1,0 +1,5 @@
+__pycache__
+book_test_1.bin
+book_test_2.bin
+*.pyc
+chatbot.egg-info
